@@ -1,9 +1,9 @@
 package cn.com;
-
-import java.lang.reflect.Array;
-
-import org.apache.catalina.tribes.util.Arrays;
-
+/**
+ * 2016-09-28
+ * @author joe
+ *
+ */
 public class Test {
 
 	public static void main(String[] args) {
